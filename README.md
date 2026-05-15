@@ -1,16 +1,15 @@
 ## Hi there 👋
+I'm Vinayredddy
 
-<!--
-**594vinayreddy/594vinayreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span>**🙋‍♂️ Who am I?**</span>
+<br>
+Just someone who want to build softwares, dig into the logs and debug the code. I'm at my early stages of my tech journey and would like to explore and learn new technologies through building projects.
 
-Here are some ideas to get you started:
+<span>**🚧 My Projects**<span>
+<br>
+Right now all the repository on my account is of single project. It was fun building, at times scratching head looking at the logs. I got to learn new things like "communication between microservices of a project".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span>**🛣️Future thoughts**</span>
+<br>
+Explore and upskill
+
